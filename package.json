@@ -1,0 +1,35 @@
+{
+  "name": "X-Ticher_DOS",
+  "version": "1.0.0",
+  "description": "Simple-ddos-tools",
+  "main": "ddos.js",
+  "author": "DIKATOKI-OFFICIAL",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ddos.js"
+  },
+  "keywords": [],
+  "dependencies": {
+    "axios": "^1.7.7",
+    "chalk": "^5.3.0",
+    "cluster": "^0.7.7",
+    "colors": "^1.4.0",
+    "crypto": "^1.0.1",
+    "dgram": "^1.0.1",
+    "gradient-string": "^2.0.2",
+    "hpack": "^1.0.0",
+    "http2": "^3.3.7",
+    "libphonenumber-js": "^1.11.13",
+    "mineflayer": "^4.23.0",
+    "net": "^1.0.2",
+    "pino": "^9.5.0",
+    "proxy-agent": "^6.4.0",
+    "socks": "^2.8.3",
+    "ssh2": "^1.16.0",
+    "tls": "^0.0.1",
+    "user-agents": "^1.1.294"
+  },
+  "directories": {
+    "ddos": "ddos"
+  }
+}
